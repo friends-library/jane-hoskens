@@ -1,6 +1,6 @@
 == The Life of Jane Hoskins
 
-A CONCERN having for some time remained on my mind to commemorate
+A concern having for some time remained on my mind to commemorate
 the tender dealings of a merciful God,
 in visiting my soul in the days of my youth;
 I have endeavoured briefly to set forth the same in the following lines.
@@ -829,24 +829,24 @@ an eminent and experienced minister of Christ.
 It should be observed, that Jane Hoskens`' maiden name, was Fenn.
 He says; --
 {footnote-paragraph-split}
-"`In this year two sober young women,
+In this year two sober young women,
 Elizabeth Levis and Jane Fenn,
 were concerned to visit Friends in the island of Barbados,
 and they meeting with some discouragement,
 in Christian love I wrote them the following letter,
 to encourage them in the work of Christ, viz:
 {footnote-paragraph-split}
-"`Frankford,
+Frankford,
 1st of twelfth month,
 1724-5.
 {footnote-paragraph-split}
-"`My dear friends,
+My dear friends,
 {footnote-paragraph-split}
-"`Elizabeth
+Elizabeth
 Levis,
 and Jane Fenn,
 {footnote-paragraph-split}
-"`Understanding by our friend, Grace Lloyd,
+Understanding by our friend, Grace Lloyd,
 that you have proposed your intention of visiting the few Friends in the island of Barbados,
 and that you meet with some discouragement inwardly and outwardly,
 it is in my mind to comfort and strengthen you in so great and good an undertaking,
@@ -863,7 +863,7 @@ which reacheth your case in this undertaking.
 And, indeed, some of our lives, in our own sense, are hardly worth mentioning,
 considering the cause of Christ.
 {footnote-paragraph-split}
-"`And, dear children of our heavenly Father, I may,
+And, dear children of our heavenly Father, I may,
 through some good experience, truly inform you,
 that there is much openness in many people on that island,
 and good encouragement I have had, from above, in my visiting the people there; though,
@@ -881,7 +881,7 @@ by a rash and turbulent management, and by so doing, have rather made the breach
 than by a meek and loving, as well as lowly disposition,
 lessened their differences and healed them.
 {footnote-paragraph-split}
-"`And, tender friends,
+And, tender friends,
 though it may seem hard for you in several considerations, to give up to go to sea,
 and also to divers who love you and are nearly related to you, know ye,
 and such so concerned, that the Lord is stronger than the noise of many waters,
@@ -890,7 +890,7 @@ And I really believe that you, as well as my soul, with all the servants of Chri
 will experience it to be so, as David did,
 whose words they are.
 {footnote-paragraph-split}
-"`I
+I
 remember the words of our great Lord and Master,
 Jesus Christ, when he sent forth his servants to preach his Gospel;
 '`I send you forth as lambs among wolves.`' No question but you, like innocent lambs,
@@ -900,7 +900,7 @@ in some among whom you may travel; then will the counsel of Christ,
 added to his commission, be good for you to keep close to: '`Be ye wise as serpents,
 but innocent or harmless as doves.`'
 {footnote-paragraph-split}
-"`And, dear maidens,
+And, dear maidens,
 as your cross is great, you being two innocent young women,
 in giving up your names to cross the sea, which I know is a great trial, the seamen,
 too generally being rude, dissolute people; so your crown will be great also.
@@ -913,7 +913,7 @@ When I have gone to sea, I always found a religious and Christian concern upon m
 for the poor sailors, the good effects of which have been much more than I may speak of;
 but give this little hint for your encouragement and information.
 {footnote-paragraph-split}
-"`Well,
+Well,
 dear souls, if you go, I believe the Lord will go with you; and sure I am,
 that my spirit will also go along with you, which will not hurt you,
 if it do you no good.
@@ -926,7 +926,7 @@ except as to the interest which they desire in Christ and his kingdom,
 for the sake of which,
 they love not their lives unto death.
 {footnote-paragraph-split}
-"`I must now take leave,
+I must now take leave,
 after putting you in mind to remember your poor friend and brother,
 when before the throne you are supplicating the Father of mercies in secret,
 even as my heart is tenderly bowed and broken into tears on your behalf at this time.
@@ -939,7 +939,7 @@ manifest him to be their Master,
 and by their honouring him manifest him to be their
 Lord.
 {footnote-paragraph-split}
-Thomas Chalkley.`"]
+Thomas Chalkley.]
 and from thence took shipping and landed on Rhode Island, and visited that place,
 Nantucket, New England, Long Island, the Jersies, our own province,
 the counties of New Castle, Kent, and Sussex on Delaware, the eastern shore of Maryland,
@@ -1004,7 +1004,7 @@ that many may be rightly qualified for his work and service,
 to the glory of his holy name!
 
 On the 14th of the second month, 1728, I came to Whitehaven,
-and on the 16th went on board the ship Reserve, John Nicholson, master, bound for Dublin,
+and on the 16th went on board the ship _Reserve,_ John Nicholson, master, bound for Dublin,
 in Ireland,
 where we arrived safely on the 18th. I was at most of the meetings in that kingdom,
 had meetings in many places where no Friends lived,
@@ -1189,4 +1189,5 @@ and night unto night showeth knowledge;`" by sore afflictions we learn experienc
 and if we make a proper use thereof, all will in due time be sanctified to us,
 so that we shall receive the word of instruction with joy.
 
+[.signed-section-signature]
 J+++.+++ H.
