@@ -839,10 +839,7 @@ Frankford,
 1724-5.
 {footnote-paragraph-split}
 My dear friends,
-{footnote-paragraph-split}
-Elizabeth
-Levis,
-and Jane Fenn,
+Elizabeth Levis, and Jane Fenn,
 {footnote-paragraph-split}
 Understanding by our friend, Grace Lloyd,
 that you have proposed your intention of visiting the few Friends in the island of Barbados,
@@ -888,8 +885,7 @@ And I really believe that you, as well as my soul, with all the servants of Chri
 will experience it to be so, as David did,
 whose words they are.
 {footnote-paragraph-split}
-I
-remember the words of our great Lord and Master,
+I remember the words of our great Lord and Master,
 Jesus Christ, when he sent forth his servants to preach his Gospel;
 '`I send you forth as lambs among wolves.`' No question but you, like innocent lambs,
 before your return, if it please God to give you to us again,
@@ -968,7 +964,7 @@ I acquainted Friends in our parts with it,
 and had their concurrence and certificate for that purpose.
 On the 13th day of the third month, 1727,
 in company with our dear Friend Abigail Bowles aforesaid, and several others,
-I went on board the ship Dorothy, John Bedford, commander, bound for Bristol;
+I went on board the ship __Dorothy,__ John Bedford, commander, bound for Bristol;
 there being but little wind, we did not leave the capes of Delaware till the 20th,
 and on the 27th of the fourth month landed safe at Bristol.
 We held our meetings in the great cabin, during the voyage, when the weather permitted,
